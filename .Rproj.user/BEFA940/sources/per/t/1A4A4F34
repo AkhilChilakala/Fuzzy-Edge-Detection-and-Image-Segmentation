@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543059825833.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1254824857",
+    "id" : "1A4A4F34",
+    "lastKnownWriteTime" : 1543086241,
+    "last_content_update" : -2147483648,
+    "path" : "~/Fuzzy/EdgeGenerator/GUI/server.R",
+    "project_path" : "GUI/server.R",
+    "properties" : {
+        "cursorPosition" : "31,4",
+        "scrollLine" : "29"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
